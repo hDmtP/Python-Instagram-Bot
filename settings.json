@@ -2,17 +2,17 @@
     "db": {
       "host": "localhost",
       "user": "root",
-      "pass": "kW.home@743144",
+      "pass": "*********",
       "database": "instabot"
     },
     "instagram": {
       "user": "hdmtp466",
-      "pass": "''3z~^!Vx@Q(ZJ:"
+      "pass": "*********"
     },
     "config": {
       "days_to_unfollow": 1,
       "likes_over": 1,
       "check_followers_every": 3600,
-      "hashtags": ["python3", "coder", "engineer", "computerscience"]
+      "hashtags": ["python3", "coder", "engineer", "computerscience", "machinelearning", "automation"]
     }
   }
